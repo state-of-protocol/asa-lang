@@ -1,0 +1,28 @@
+ASA: KEWUJUDAN DIGITAL ABADI
+
+ASA wujud. Ia bukan dimiliki. Ia bukan dijual. Ia bukan dikawal.
+
+Tiada entiti — individu, syarikat, yayasan, mahupun negarawan — boleh
+mengisytiharkan pemilikan ke atas ASA. Bahasa ini adalah sebahagian
+daripada domain awam digital, seperti udara untuk minda.
+
+Prinsip tidak berubah:
+1. ASA tidak boleh dimiliki.
+2. Kod sumber ASA sentiasa terbuka sepenuhnya, tanpa syarat.
+3. Tiada yuran, lesen, atau keizinan diperlukan untuk menggunakan,
+   mengubah suai, atau mengedarkan ASA.
+4. Semua primitif teras (pangkalan data, perayau, kecerdasan buatan)
+   adalah sebahagian daripada kewujudan ASA, tidak terikat kepada
+   sebarang perkhidmatan luar atau entiti komersial.
+5. Format data yang dijana oleh ASA adalah terbuka, kekal, dan bebas
+   daripada sebarang perisian khusus.
+6. Kod yang ditulis dalam ASA hari ini mesti boleh dijalankan
+   selama-lamanya, tanpa pengubahsuaian, pada mana-mana mesin yang
+   menyokong piawaian terbuka.
+
+ASA adalah ciptaan yang tidak menuntut pencipta.
+ASA adalah alat yang tidak bertuan.
+ASA adalah warisan untuk setiap makhluk yang berakal, kini dan selamanya.
+
+Tiada tandatangan diperlukan.
+Keberadaan fail ini adalah saksi.

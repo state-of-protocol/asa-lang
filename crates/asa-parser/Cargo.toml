@@ -1,0 +1,8 @@
+[package]
+name = "asa-parser"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+asa-lexer = { path = "../asa-lexer" }
+asa-ast = { path = "../asa-ast" }

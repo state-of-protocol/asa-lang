@@ -1,0 +1,6 @@
+fn main() {
+    biar x = 10;
+    jika x < 20 {
+        println("Hello, ASA! x = ", x);
+    }
+}

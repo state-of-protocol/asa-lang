@@ -1,0 +1,9 @@
+[package]
+name = "asa-driver"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+asa-lexer = { path = "../asa-lexer" }
+asa-parser = { path = "../asa-parser" }
+asa-codegen = { path = "../asa-codegen" }

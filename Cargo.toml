@@ -1,0 +1,9 @@
+[workspace]
+members = [
+    "crates/asa-lexer",
+    "crates/asa-ast",
+    "crates/asa-parser",
+    "crates/asa-codegen",
+    "crates/asa-driver",
+]
+resolver = "2"

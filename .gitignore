@@ -1,0 +1,17 @@
+# Rust
+/target/
+**/*.rs.bk
+
+# Hasil kompilasi C
+*.exe
+*.obj
+*.c
+!examples/**/*.c
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
