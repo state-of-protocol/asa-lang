@@ -18,4 +18,8 @@ Pengkompil permulaan (dalam Rust) sedang dibangunkan. Ia akan menterjemah ASA ke
 ```bash
 git clone https://github.com/state-of-protocol/asa.git
 cd asa
+<<<<<<< HEAD
 # Akan datang: arahan pembinaan
+=======
+# Akan datang: arahan pembinaan
+>>>>>>> 977f212dd51490eca1ce1d715ca015f7ef2d7741
